@@ -1,0 +1,16 @@
+﻿body {
+    background-color: wheat;
+}
+.border{
+    
+    border: 10px solid black;
+    background-color: white;
+    text-align: center;
+
+        }
+.button{
+    
+    text-align:center;
+}
+
+
